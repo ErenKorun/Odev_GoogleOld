@@ -1,0 +1,67 @@
+
+body{
+    margin-top: 8px;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+}
+/* Çerçeve */
+
+.container{
+    border: 0;
+    width: 90%;
+    margin: 0 auto ;
+    text-align: center;
+}
+
+
+/********* Arama Kutusu ***********/
+.box-one{
+    background-color: #EEEEEE;
+    width: 99%;
+    margin-bottom: 2px;
+    padding-bottom: 1px;
+}
+
+ .content{
+    float: left;
+    width: 100%;
+    margin: 0 auto;
+} 
+
+/************ Alt Kutucuklar *****************/
+.box-two{
+    background-color: #7EE5DA;
+    width: 36%;
+    height: 65px;
+    float: left;
+    margin-right: 2px;
+    padding-top: 10px;
+}
+
+.box-three{
+    background-color: #70CCC2;
+    width: 21%;
+    height: 69px;
+    float: left;
+    font-size: 13px;
+    margin-right: 2px;
+    padding-top: 6px;
+}
+
+.box-four{
+    width: 42%;
+    font-size: 13px;
+    background-color: #62B3AA;
+    height: 75px;
+    float: left;
+    
+}
+
+footer{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 5%;
+}
